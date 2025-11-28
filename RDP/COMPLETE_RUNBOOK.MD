@@ -327,5 +327,3 @@ When you suspect RDP lateral movement:
 6. **Look for credential theft** — Mimikatz, LSASS dumps before RDP?
 7. **Map the chain** — how many hops? Where did attacker go next?
 8. **Check bitmap cache** — can you reconstruct what attacker saw?
-
-Would you like me to expand on any specific phase or create additional queries for a particular scenario (like detecting specific ransomware patterns or hunting for lateral movement to domain controllers)?
